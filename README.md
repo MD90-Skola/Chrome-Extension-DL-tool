@@ -1,6 +1,6 @@
 /*-------------------------------------
         1.  Readme
---------------------------------------*/
+--------------------------------------*/<br>
 **Raccoon Tools DL** är ett Chrome-tillägg för att snabbt och enkelt ladda ner videor från  
 YouTube, Instagram och Facebook direkt via webbläsaren.  
 
@@ -9,7 +9,7 @@ YouTube, Instagram och Facebook direkt via webbläsaren.
 
 /*-------------------------------------
         2.  Tilläggsinformation
---------------------------------------*/
+--------------------------------------*/<br>
 **Version:**   0.2  
 **Författare:**  Michel Dahl  
 **GitHub Repo:** [MD90-Skola/Chrome-Extension-DL-tool](https://github.com/MD90-Skola/Chrome-Extension-DL-tool)  
@@ -20,13 +20,12 @@ YouTube, Instagram och Facebook direkt via webbläsaren.
 
 /*-------------------------------------
         3.  Funktioner
---------------------------------------*/
+--------------------------------------*/<br>
 ✅ Ladda ner videor från YouTube, Instagram & Facebook  
 ✅ Enkel och snabb användning via popup-meny  
 ✅ Anpassningsbar inställningspanel  
 ✅ Automatisk inklistring av video-URL i nedladdningssidor  
 ✅ Optimerad för Chrome Extensions API (Manifest v3)  
-
 
 
 
