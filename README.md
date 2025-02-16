@@ -1,9 +1,17 @@
 /*-------------------------------------<br>
-        1.  Readme<br>
+          1.  Readme<br>
 --------------------------------------*/<br>
-**Raccoon Tools DL** är ett Chrome-tillägg för att snabbt och enkelt ladda ner videor från  <br>
-YouTube, Instagram och Facebook direkt via webbläsaren.  <br>
-Tested på mac och windows
+ 🦝 Raccoon Tools DL  <br>
+**Ett Chrome-tillägg för att ladda ner videor snabbt och enkelt – direkt via webbläsaren.**  <br>
+<br>
+### 🚀 Stöd för:<br>
+✅ **YouTube**  <br>
+✅ **Facebook**  <br>
+✅ **Instagram**  <br>
+<br>
+💻 **Testat på macOS & Windows**  <br>
+🔗 **Fungerar direkt i Chrome/brave**  <br>
+<br>
 <br>
 <br>
 /*-------------------------------------<br>
