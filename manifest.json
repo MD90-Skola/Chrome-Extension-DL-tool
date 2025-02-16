@@ -1,0 +1,70 @@
+{
+    "name": "Raccoon Tools",
+    "version": "1.0.0",
+    "description": "Download Tools - Ladda ner YouTube, Instagram & Facebook-videor.",
+    "manifest_version": 3,
+    "permissions": [
+        "storage",
+        "tabs",
+        "activeTab",
+        "scripting"
+    ],
+    "host_permissions": [
+        "https://www.youtube.com/*",
+        "https://en1.savefrom.net/*",
+        "https://fastdl.app/en/*",
+        "https://fdown.net/*",
+        "https://www.instagram.com/*",
+        "https://www.facebook.com/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.youtube.com/*",
+                "https://en1.savefrom.net/1-youtube-video-downloader-3vV/*",
+                "https://fastdl.app/en/*",
+                "https://fdown.net/*",
+                "https://www.instagram.com/*",
+                "https://www.facebook.com/*"
+            ],
+            "js": ["contentScript.js"],
+            "run_at": "document_end",
+            "all_frames": true
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "assets/bookmark.png",
+                "assets/download.png",
+                "assets/play.png",
+                "assets/delete.png",
+                "assets/save.png",
+                "assets/addon.png",
+                "TabControl.js"
+            ],
+            "matches": [
+                "https://www.youtube.com/*",
+                "https://en1.savefrom.net/*",
+                "https://fastdl.app/*",
+                "https://fdown.net/*",
+                "https://www.instagram.com/*",
+                "https://www.facebook.com/*"
+            ]
+        }
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "assets/addon.png",
+            "24": "assets/addon.png",
+            "32": "assets/addon.png",
+            "48": "assets/addon.png",
+            "128": "assets/addon.png"
+        },
+        "default_title": "My YT Bookmarks"
+    }
+}
