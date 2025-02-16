@@ -46,8 +46,11 @@ YouTube, Instagram och Facebook direkt via webbläsaren.
 - Fixade buggar vid inklistring av URL  
 - Lade till stöd för Instagram och Facebook  
 <br>
+[img]https://i.imgur.com/dltJ3hj.png[/img]
 
-![Guide](https://i.imgur.com/dltJ3hj.png)
+
+<img src="https://i.imgur.com/wzgTGHn.png" width="600">
+
 
 
   
