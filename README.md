@@ -47,7 +47,7 @@ YouTube, Instagram och Facebook direkt via webbläsaren.
 - Lade till stöd för Instagram och Facebook  
 <br>
 
-
+![Raccoon Logo](https://e7.pngegg.com/pngimages/112/435/png-clipart-raccoon-raccoon-mammal-image-file-formats-thumbnail.png)
 
 
   
